@@ -1,2 +1,2 @@
-# ablaydbot.github.io
+ablaydbot.github.io
 discord server koruma programı
